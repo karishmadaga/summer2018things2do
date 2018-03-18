@@ -4,12 +4,13 @@
 - [ ] need to be comfortable with leetcode mediums
   - [ ] work on 1 leetcode easy/med every other day starting in may
 - [ ] create app -> ios
-- [ ] work through flowing data tutorials and analyze data sets 
+- [ ] work through flowing data tutorials, learn r, analyze data sets 
 
 ### Academic Goals
 - [ ] learn rings and fields material 
   - [ ] read notes from semester alongside the textbook (Thomas Hungerford, Abstract Algebra)
   - [ ] work through problem sets
+- [ ] make basecs equiv for probability and statistics (and rings and fields??)
 
 ### Internship Goals
 - [ ] Explore Seattle, have fun, and make friends
@@ -20,17 +21,17 @@
 Course Planning: 
 
 Current Plan, 3rd Year: 
-- [ ] CISC 322: software arch
-- [ ] CISC 324: operating systems
-- [ ] CISC 365: algs
-- [ ] MATH 210: rings and fields
-- [ ] MATH 311/310: number theory / group theory 
+- [x] CISC 322: software arch
+- [x] CISC 324: operating systems
+- [x] CISC 365: algs
+- [x] MATH 210: rings and fields
+- [x] MATH 311/310: number theory / group theory 
 - [ ] MATH 225: diffs (could take in summer)
-- [ ] MATH 272/271 (could take this next year)
-- [ ] STAT 361 (applied stat methods)
-- [ ] CISC 333 (data mining)
+- [ ] MATH 272/271 (could take this in 4th year)
+- [x] STAT 361 (applied stat methods)
+- [x] CISC 333 (data mining)
 - [ ] STAT?? 
-- [ ] MATH 401?? Game theory?? Op Research??
+- [x] MATH 401?? Game theory?? Op Research??
 
 
 
@@ -42,17 +43,17 @@ CS & Math Requirements:
 
 Mathematics and Statistics
 - 6 units in {MATH-210/3.0; MATH-211/6.0; MATH-310/3.0; MATH-311/3.0; MATH-312/3.0} where 
-  - 210: abstract algebra
-  - 310: group theory
-  - 311: number theory
-  - 312: upper year lin alg
+  - [x] 210: abstract algebra
+  - [ ] 310: group theory
+  - [ ] 311: number theory
+  - [ ] 312: upper year lin alg
 - MATH-231/3.0 or MATH-225/3.0 (Diff Eqns)
 - MATH-272/3.0 or MATH-271/3.0 (Numerical Analysis)
 - ~~MATH-221/3.0 or MATH-280/3.0 (Adv Calculus)~~
 - ~~STAT-263/3.0 or STAT-269/3.0 (Statistics)~~
 - ~~STAT-268/3.0 or STAT-351/3.0 (Probability)~~
 
-Option Courses (12 units from): 
+Option Courses (4 courses from): 
 - Data Analysis stream: 
   - CISC-333/3.0: Data Mining
   - STAT-361/3.0: Applied methods in statistics 
