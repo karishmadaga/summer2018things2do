@@ -3,7 +3,7 @@
 ### Summer 2019 Interview Prep
 - [ ] need to be comfortable with leetcode mediums
   - [ ] work on 1 leetcode easy/med every other day starting in may
-- [ ] create app -> ios
+- [ ] create app -> ios (for qwic? for lecture tracking app?)
 - [ ] work through flowing data tutorials, learn r, analyze data sets 
 
 ### Academic Goals
@@ -17,6 +17,12 @@
 - [ ] Put 100% into my project
 - [ ] Don't be afraid to learn from others (interns, mentors, execs, whoever). Embrace & seek out wisdom.
 
+### Extras
+- [ ] figure out how I can take a fall & winter semesters off after 3rd year summer to do more internships/research 
+  - ask uw guy, jnthan sun?
+
+Unlike when I was 27, I feel a lot less certain about my life trajectory now. If you were to ask me where I’d like to be in another six years, I would simply point to all the creative flailing, U-turns and relentless question-asking of the past six years. But if there’s one thing I do know, it’s this: there is nothing to fear about all this uncertainty. Because I know that no matter where I go next, there will always be much to learn and many opportunities to grow along the way.
+- tina ye, [looking ahead](https://medium.com/@tinabeans/looking-ahead-6f1d810eb824)
 
 Course Planning: 
 
@@ -32,7 +38,6 @@ Current Plan, 3rd Year:
 - [x] CISC 333 (data mining)
 - [ ] STAT?? 
 - [x] MATH 401?? Game theory?? Op Research??
-
 
 
 CS & Math Requirements: 
@@ -57,7 +62,7 @@ Option Courses (4 courses from):
 - Data Analysis stream: 
   - CISC-333/3.0: Data Mining
   - STAT-361/3.0: Applied methods in statistics 
-  - STAT-462/3.0: Computational Data Analysis
+  - STAT-462/3.0: Computational Data Analysis ** use r etc!
   - STAT-463/3.0: Fundamentals of Statistical Inference
   - STAT-464/3.0: Discrete Time Series Analysis 
   - STAT-471/3.0: Design and Analysis of Experiments
