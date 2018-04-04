@@ -24,21 +24,49 @@
 Unlike when I was 27, I feel a lot less certain about my life trajectory now. If you were to ask me where I’d like to be in another six years, I would simply point to all the creative flailing, U-turns and relentless question-asking of the past six years. But if there’s one thing I do know, it’s this: there is nothing to fear about all this uncertainty. Because I know that no matter where I go next, there will always be much to learn and many opportunities to grow along the way.
 - tina ye, [looking ahead](https://medium.com/@tinabeans/looking-ahead-6f1d810eb824)
 
-Course Planning: 
+Course Planning:
 
-Current Plan, 3rd Year: 
-- [x] CISC 322: software arch
-- [x] CISC 324: operating systems
-- [x] CISC 365: algs
-- [x] MATH 210: rings and fields
-- [x] MATH 311/310: number theory / group theory 
-- [ ] MATH 225: diffs (could take in summer)
-- [ ] MATH 272/271 (could take this in 4th year)
-- [x] STAT 361 (applied stat methods)
-- [x] CISC 333 (data mining)
-- [ ] STAT?? 
-- [x] MATH 401?? Game theory?? Op Research??
+Fall 2018
+- [ ] CISC 322: software architecture
+- [ ] CISC 365: algorithms
+- [ ] STAT 361: applied methods in stats
+- [ ] MATH 401: graph theory
+- [ ] STAT 463: stat inference
 
+Winter 2019
+- [ ] CISC 324: operating systems
+- [ ] MATH 210: rings and fields
+- [ ] STAT 353: probability II
+- [ ] MATH 311: number theory
+- [ ] 
+
+Summer 2019
+- [ ] MATH 225: Differential Equations
+
+Fall 2019
+Intern
+
+Winter 2020
+Intern
+
+Summer 2020
+Research 
+
+Fall 2020
+- [ ] STAT 462: Computational Data Analysis
+- [ ] STAT 473: Generalized Linear Models
+- [ ] 
+- [ ] 
+- [ ]
+
+Winter 2021
+- [ ] STAT 486: Survival Analysis 
+- [ ] CISC 497: Ethics
+- [ ] CISC 271: Numerical Analysis 
+- [ ] 
+- [ ] 
+
+Graduation 🎉🎉🎉
 
 CS & Math Requirements: 
 - Either CISC-322/3.0 or CISC-326/3.0
@@ -46,31 +74,25 @@ CS & Math Requirements:
 - CISC-497/3.0
 - CISC-499/3.0
 
+avoid sad
+
 Mathematics and Statistics
 - 6 units in {MATH-210/3.0; MATH-211/6.0; MATH-310/3.0; MATH-311/3.0; MATH-312/3.0} where 
-  - [x] 210: abstract algebra
-  - [ ] 310: group theory
+  - [ ] 210: abstract algebra
   - [ ] 311: number theory
-  - [ ] 312: upper year lin alg
-- MATH-231/3.0 or MATH-225/3.0 (Diff Eqns)
-- MATH-272/3.0 or MATH-271/3.0 (Numerical Analysis)
-- ~~MATH-221/3.0 or MATH-280/3.0 (Adv Calculus)~~
-- ~~STAT-263/3.0 or STAT-269/3.0 (Statistics)~~
-- ~~STAT-268/3.0 or STAT-351/3.0 (Probability)~~
+- [ ] MATH-225/3.0 (Diff Eqns) (SUMMER)
+- [ ] CISC-271/3.0 (Numerical Analysis)
 
 Option Courses (4 courses from): 
 - Data Analysis stream: 
   - CISC-333/3.0: Data Mining
-  - STAT-361/3.0: Applied methods in statistics 
-  - STAT-462/3.0: Computational Data Analysis ** use r etc!
-  - STAT-463/3.0: Fundamentals of Statistical Inference
-  - STAT-464/3.0: Discrete Time Series Analysis 
-  - STAT-471/3.0: Design and Analysis of Experiments
-  - STAT-486/3.0: Survival Analysis
-
+  - **STAT-361/3.0: Applied methods in statistics** 
+  - **STAT-462/3.0: Computational Data Analysis ** use r etc!**
+  - **STAT-463/3.0: Fundamentals of Statistical Inference**
+  - **STAT 473: generalized linear models**
+  - **STAT-486/3.0: Survival Analysis** if it's not wenyu, don't take it???
+  - take 462 after 361!!!
 Not included but could be taken: 
 - MATH 401: Graph Theory (MURTY!!)
-- MATH ---: Evolutionary Game Theory
-- MATH ---: Operations Research Models
 - STAT 455: Stochastic Processes
-- STAT 353: Probability II: stochastic processes; probability measures, expectations; modes of convergence of sequences of random variables; conditional expectations; independent systems of random variables; Gaussian systems; characteristic functions; Law of large numbers, Central limit theory; some notions of dependence. 
+- **STAT 353: Probability II:** stochastic processes; probability measures, expectations; modes of convergence of sequences of random variables; conditional expectations; independent systems of random variables; Gaussian systems; characteristic functions; Law of large numbers, Central limit theory; some notions of dependence. 
