@@ -44,27 +44,25 @@ Summer 2019
 - [ ] MATH 225: Differential Equations
 
 Fall 2019
-Intern
+- Intern
 
 Winter 2020
-Intern
+- Intern
 
 Summer 2020
-Research 
+- Research 
 
 Fall 2020
 - [ ] STAT 462: Computational Data Analysis
 - [ ] STAT 473: Generalized Linear Models
-- [ ] 
-- [ ] 
-- [ ]
+
 
 Winter 2021
 - [ ] STAT 486: Survival Analysis 
 - [ ] CISC 497: Ethics
 - [ ] CISC 271: Numerical Analysis 
 - [ ] MATH 281: Intro to Real Analysis
-- [ ] 
+
 
 Graduation 🎉🎉🎉
 
