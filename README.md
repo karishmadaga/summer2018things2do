@@ -38,7 +38,7 @@ Winter 2019
 - [ ] MATH 210: rings and fields
 - [ ] STAT 353: probability II
 - [ ] MATH 311: number theory
-- [ ] 
+- [ ] STAT ---: statistical learning theory?
 
 Summer 2019
 - [ ] MATH 225: Differential Equations
@@ -63,7 +63,7 @@ Winter 2021
 - [ ] STAT 486: Survival Analysis 
 - [ ] CISC 497: Ethics
 - [ ] CISC 271: Numerical Analysis 
-- [ ] 
+- [ ] MATH 281: Intro to Real Analysis
 - [ ] 
 
 Graduation 🎉🎉🎉
@@ -78,21 +78,21 @@ avoid sad
 
 Mathematics and Statistics
 - 6 units in {MATH-210/3.0; MATH-211/6.0; MATH-310/3.0; MATH-311/3.0; MATH-312/3.0} where 
-  - [ ] 210: abstract algebra
-  - [ ] 311: number theory
-- [ ] MATH-225/3.0 (Diff Eqns) (SUMMER)
+  - [ ] 210: abstract algebra (WINTER 2019)
+  - [ ] 311: number theory (WINTER 2019)
+- [ ] MATH-225/3.0 (Diff Eqns) (SUMMER 2019)
 - [ ] CISC-271/3.0 (Numerical Analysis)
 
 Option Courses (4 courses from): 
 - Data Analysis stream: 
   - CISC-333/3.0: Data Mining
-  - **STAT-361/3.0: Applied methods in statistics** 
-  - **STAT-462/3.0: Computational Data Analysis ** use r etc!**
-  - **STAT-463/3.0: Fundamentals of Statistical Inference**
-  - **STAT 473: generalized linear models**
-  - **STAT-486/3.0: Survival Analysis** if it's not wenyu, don't take it???
+  - **STAT-361/3.0: Applied methods in statistics** (FALL 2018)
+  - **STAT-462/3.0: Computational Data Analysis ** use r etc!** (FALL 2020)
+  - **STAT-463/3.0: Fundamentals of Statistical Inference** (FALL 2018)
+  - **STAT 473: generalized linear models** (FALL 2020)
+  - **STAT-486/3.0: Survival Analysis** if it's not wenyu, don't take it??? (WINTER 2021)
   - take 462 after 361!!!
 Not included but could be taken: 
-- MATH 401: Graph Theory (MURTY!!)
-- STAT 455: Stochastic Processes
-- **STAT 353: Probability II:** stochastic processes; probability measures, expectations; modes of convergence of sequences of random variables; conditional expectations; independent systems of random variables; Gaussian systems; characteristic functions; Law of large numbers, Central limit theory; some notions of dependence. 
+- MATH 401: Graph Theory (MURTY!!) (FALL 2018)
+- STAT 455: Stochastic Processes (
+- **STAT 353: Probability II:** (WINTER 2019)
